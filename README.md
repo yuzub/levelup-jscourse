@@ -1,2 +1,0 @@
-# levelup-jscourse
-levelUp-jscourse
